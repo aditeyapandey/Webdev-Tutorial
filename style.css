@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+  }
+
+  .personalinfo{
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .footer {
+    min-height: 300px;
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+  }
+
+  a {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 2px;
+  }
+
+  a:hover {
+    background-color: #ddd;
+    color: black;
+  }
